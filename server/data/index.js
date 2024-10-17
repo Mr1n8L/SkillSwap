@@ -1,3 +1,4 @@
+//index.js
 import mongoose from "mongoose";
 
 const userIds = [
